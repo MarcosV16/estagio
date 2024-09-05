@@ -1,0 +1,2 @@
+# estagio
+Canditatura para estágio
